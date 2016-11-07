@@ -1,0 +1,25 @@
+{
+  "name": "base-encode",
+  "version": "1.0.0",
+  "description": "Code a integet to base string and vice versa.",
+  "main": "Encode.class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gtrabanco/base-encode.git"
+  },
+  "keywords": [
+    "base",
+    "encode",
+    "convert",
+    "integers"
+  ],
+  "author": "Gabriel Trabanco Llano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtrabanco/base-encode/issues"
+  },
+  "homepage": "https://github.com/gtrabanco/base-encode#readme"
+}
