@@ -1,5 +1,5 @@
 declare class Encode {
-    constructor();
+    constructor(alphabet:string);
     public encode (num:number):string;
     public decode (str:string):number;
     public base():number;

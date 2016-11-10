@@ -1,9 +1,9 @@
 {
   "name": "base-encode",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Code a integet to base string and vice versa.",
   "main": "Encode.class.js",
-  "typings": "Encode.class.d.ts",
+  "types": "Encode.class.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
