@@ -42,4 +42,3 @@ var Encode = (function () {
     return Encode;
 }());
 module.exports = Encode;
-//# sourceMappingURL=Encode.class.js.map
