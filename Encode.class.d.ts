@@ -3,7 +3,6 @@
 // Definitions by: Gabriel Trabanco Llano <https://gabi.soy>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 declare module Encode {
-
     interface Encode {
         constructor(alphabet: string);
         encode (num: number): string;

@@ -1,6 +1,6 @@
 {
   "name": "base-encode",
-  "version": "1.0.7-beta.1",
+  "version": "1.0.8",
   "description": "Code a integet to base string and vice versa.",
   "main": "Encode.class.js",
   "types": "Encode.class.d.ts",
